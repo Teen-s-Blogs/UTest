@@ -5,7 +5,7 @@ from selenium import webdriver
 driver = webdriver.Chrome()
 
 # navigate to the web page
-driver.get("https://your-webpage.com")
+driver.get("https://teen-s-blogs.github.io/Grey-Blogs/")
 
 # wait for the page to load
 time.sleep(2)
