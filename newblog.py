@@ -1,4 +1,4 @@
- import unittest
+import unittest
 from selenium import webdriver
 
 class TestNewBlogPost(unittest.TestCase):
